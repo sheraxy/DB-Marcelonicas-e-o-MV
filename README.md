@@ -1,4 +1,5 @@
 FLUXOGRAMA:
+
 <img width="561" height="842" alt="image" src="https://github.com/user-attachments/assets/3b64e60a-1fdd-4cf3-bcfd-e7934242f483" />
 
 DER:

@@ -1,7 +1,7 @@
 
 DER:
 <img width="1098" height="648" alt="image" src="https://github.com/user-attachments/assets/1782ec85-bf12-4181-bf25-e4efe5aa542c" />
-o que este texto 🚀 Plano de Negócios: SteamJava
+ 🚀 Plano de Negócios: SteamJava
 1. Introdução e Visão de Mercado
 O projeto SteamJava surge com a proposta de se consolidar como uma das principais forças do mercado global de games. A indústria de jogos eletrônicos movimenta bilhões de dólares anualmente e possui um público extremamente diversificado, abrangendo diferentes faixas etárias e perfis de consumidores.
 Diante desse cenário, a SteamJava adota uma estratégia baseada em expansão agressiva, alta escalabilidade e acessibilidade global, visando conquistar uma posição dominante no setor de distribuição digital de jogos.

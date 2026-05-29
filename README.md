@@ -29,3 +29,6 @@ Futuros e Tecnológicos: Integração com novas tecnologias de pagamento que sur
 
 4. Conclusão do Projeto
 O modelo de negócios da SteamJava demonstra uma visão de crescimento vertical e expansão contínua. Ao focar na total cobertura de plataformas e na universalização dos meios de pagamento, a empresa se posiciona não apenas como uma loja comum, mas como um ecossistema global pronto para liderar a próxima geração do comércio de videogames.
+
+DER:
+<img width="1098" height="648" alt="image" src="https://github.com/user-attachments/assets/1782ec85-bf12-4181-bf25-e4efe5aa542c" />

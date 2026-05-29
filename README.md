@@ -5,7 +5,6 @@ Este relatório apresenta o modelo de negócio da SteamJava, uma plataforma cria
 
 A SteamJava opera no setor de tecnologia e entretenimento. Mais do que uma simples loja virtual, a plataforma funciona como um sistema completo onde o usuário compra seus jogos, organiza sua biblioteca e joga com segurança, sem complicações técnicas. 
 
- 
 
 
 O crescimento da SteamJava baseiam-se em três pilares operacionais que direcionam o desenvolvimento técnico e as decisões comerciais da plataforma: 
@@ -18,7 +17,6 @@ Parceria Real: Oferecer um ambiente vantajoso tanto para que joga quanto para os
 
 
 
-
 A SteamJava entrega as seguintes ferramentas essenciais para os usuários: 
 
 Loja e Downloads: Sistema seguro para comprar jogos e baixar arquivos de forma otimizada em segundo plano.
@@ -28,7 +26,6 @@ Organização de biblioteca: Salvamento automático do progresso do jogo na nuve
 Recomendações Inteligentes: Sugestões de jogos baseadas no gosto real do usuário, evitando anúncios chatos e irrelevantes. 
 
 Suporte Práticos: Atendimento direto para resolver problemas técnicos e sistema de reembolso simplificado. 
-
 
 
 
@@ -49,7 +46,6 @@ Pós-Venda e Interação (Download e Avaliação): Após a confirmação do paga
 
 
 
-
 O sistema foi projetado para guiar o usuário de forma intuitiva através de quatro etapas principais, mapeadas no fluxo operacional da plataforma:
 
 Etapa 1: Descoberta e Filtro: Ao acessar a Página Inicial, o usuário visualiza destaques, promoções e novos lançamentos. Ele possui total autonomia para buscar jogos usando filtros de pesquisa ou navegando por categorias específicas (Ação, Aventura, RPG, Esportes, Estratégia), além de acessar seções exclusivas de Pré-Vendas, Promoções ou gerenciar a sua Conta.
@@ -62,9 +58,7 @@ Etapa 4: Entrega do Software: Uma vez confirmado o pagamento com sucesso, o pedi
 
 
 
-
 A SteamJava nasce como uma alternativa prática e economicamente viável no mercado de games. Ao resolver problemas antigos que irritam os jogadores como a burocracia para pagar, a fragmentação de bibliotecas e aplicativos pesados, a empresa constrói uma base sólida e estruturada para crescer de forma sustentável e realista.
-
 
 
 
